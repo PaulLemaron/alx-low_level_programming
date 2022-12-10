@@ -28,7 +28,6 @@ int main(void)
 	{
 		printf("%d and is 0\n", num);
 	}
-	r
-eturn (0);
+	return (0);
 }
 
